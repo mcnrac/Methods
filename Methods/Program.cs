@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Programmer: Rachel McNew
+//Date: 2/6/2020
+//Description: Create a C# console application that demonstrates methods
+using System;
 
 namespace Methods
 {
